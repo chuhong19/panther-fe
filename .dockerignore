@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+.yarn
+
+# Build outputs
+.next
+out
+
+# Git
+.git
+.gitignore
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+.env.local
+.env.development
+.env.production
